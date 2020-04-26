@@ -5,7 +5,7 @@ Legendary Pokémon (伝説のポケモン Densetsu no Pokemon), or Pokémon Illu
 
 Due to their power, Legendary Pokémon are often the target of organizations that seek to control or change the world within both the anime and the games; in the latter, thwarting such attempts has been integrated into each game's plot since Generation III.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Rishabh-Maheshwari/legendary_pokemon/blob/master/img/legend.gif)
 
 Key - Libraries used : Pandas, sklearn keras-tensorflow
 
